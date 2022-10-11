@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+    color:#fff;
+    font-size: 5em;
+}
+
+body {
+    background-color: darkolivegreen;
+    font-family: 'Lobster', sans-serif;
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.carousel .item {
+    height:200px;
+    width: 200px;
+  }
+  
+ .item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+  }
+
+form {
+    width: 2rem;
+}
+
+input, label {
+    display: block;
+    padding: 6px auto;
+    border-radius: 1%;
+}
+
+.submit {
+    margin-top: 5px;
+    width: 100px;
+    font-size: large;
+}
+
+.infos {
+        margin: auto 50%;
+}
